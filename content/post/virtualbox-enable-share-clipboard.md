@@ -6,7 +6,7 @@ categories: [Virtualization]
 tags: [VirtualBox, Configuration]
 date: 2018-02-17
 weight: 1
-draft: true
+draft: false
 searchHidden: false
 cover:
   image: "" # image path/url

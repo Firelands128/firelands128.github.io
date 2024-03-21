@@ -6,7 +6,7 @@ categories: [Machine Learning]
 tags: [Anaconda, Tensorflow, Installation]
 date: 2018-02-18
 weight: 1
-draft: true
+draft: false
 searchHidden: false
 cover:
   image: "" # image path/url

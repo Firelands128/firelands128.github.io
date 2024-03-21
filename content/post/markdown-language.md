@@ -6,7 +6,7 @@ categories: [Language]
 tags: [Markdown, Language]
 date: 2024-03-07T17:17:40+08:00
 weight: 1
-draft: true
+draft: false
 searchHidden: false
 cover:
   image: "" # image path/url

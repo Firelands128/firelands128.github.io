@@ -6,7 +6,7 @@ categories: [Github Pages]
 tags: [Github Pages, Hugo, deployment]
 date: '2024-03-21T22:00:42+08:00'
 weight: 1
-draft: true
+draft: false
 searchHidden: false
 cover:
   image: "" # image path/url
