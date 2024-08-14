@@ -17,7 +17,7 @@ cover:
 
 ## Problem
 If getting this JSONException like below:
-![Configuration Processor Json Exception](images/JSONException.png)
+![Configuration-Processor-Json-Exception](images/JsonException.png)
 You can try to check gradle dependencies whether if add ```spring-boot-configuration-processor``` dependency.
 
 ## Solution
